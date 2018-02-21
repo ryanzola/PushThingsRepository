@@ -1,6 +1,6 @@
 # newRepository
 
-## How to push a new project to an existing repository with stuff already in it
+### How to push a new project to an existing repository with stuff already in it
 
  1. use the terminal to navigate to your project folder
  2. `git init`
