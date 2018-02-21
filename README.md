@@ -1,10 +1,10 @@
 # newRepository
 
-# How to push to an existing repository
+## How to push to an existing repository
 
  1. use the terminal to navigate to your project folder
  2. git init
- 3. git remote add *link to your repository*
+ 3. git remote add *https://github.com/repoOwner/repoName.git*
  4. git pull --rebase origin master
  5. git add .
  6. git commit -m "hotdogs"
